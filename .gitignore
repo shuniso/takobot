@@ -1,0 +1,13 @@
+.DS_Store
+
+/_build
+/cover
+/deps
+erl_crash.dump
+*.ez
+/rel
+/*.jpg
+
+/**/cap
+
+scripts_prod/webkit2png.log
